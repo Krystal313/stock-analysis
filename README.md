@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock Analysis
 ## Overview of Project
 Steve would like to anaylse the stock martket to determine which stock(s) would be the best option for investment. With the initial VBA code, Steve was able to analyse certain stock information in the year of 2017 and 2018. The purpose of this project is to increase the efficiency of the initial VBA code so it can work with large set of stocks.
 
